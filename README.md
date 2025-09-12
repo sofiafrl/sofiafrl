@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sofiafrl
-- 👀 I’m interested in ... quantum computing, iOS software development, front-end 
+- 👀 I’m interested in ... quantum computing, iOS development, front-end 
 - 🌱 I’m currently learning ... C, C++, javascript, python, swift
 - 😄 Pronouns: ... she/her
 
