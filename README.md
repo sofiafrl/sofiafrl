@@ -1,4 +1,4 @@
-#👩🏻‍💻 Sofia
+# 👩🏻‍💻 Sofia
 
 - 🎓 Computer Engineering student
 - 🧠 Interested in Quantum Computing, Software Development and project management.
