@@ -12,7 +12,7 @@
 
 - C
 - C++
-- Swift
+- Swift (SwiftUI and UIKit)
 - Python
 
 ---
