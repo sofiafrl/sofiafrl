@@ -21,6 +21,7 @@
 
 - GitHub: https://github.com/sofiafrl
 - LinkedIn: https://linkedin.com/in/sofiafleitao
+- Portfolio: https://sofiafrl.github.io/Portfolio/
 <!---
 sofiafrl/sofiafrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
